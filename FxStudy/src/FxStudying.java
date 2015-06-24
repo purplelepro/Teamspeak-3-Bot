@@ -92,7 +92,7 @@ public class FxStudying extends Application { //extending it to a application?
 		Scene scene = new Scene(vb, 700, 350);
 		stage.setScene(scene);
 		stage.setTitle(windowTitle);
-		stage.show(); //inits the window1
+		stage.show(); //inits the window
 		
 	}
 }
